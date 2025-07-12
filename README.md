@@ -1,3 +1,16 @@
+# Rootally AI
+
+Rootally AI is a demo dashboard for tracking patient consultations and rehabilitation progress. It is built with React and Material UI and provides a simple interface to monitor key metrics for a clinic.
+
+## Features
+
+- Overview dashboard showing counts for consultations, rehabilitations, active patients and recovered patients.
+- Interactive charts that visualize patient statistics over time.
+- Tables for recent consultation activities and rehabilitation records.
+- Dedicated patients page to view individual patient details.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
